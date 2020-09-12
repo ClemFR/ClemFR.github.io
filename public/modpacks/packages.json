@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Modpack",
+      "name" : "Modpack",
+      "version" : "2020-09-12-18-57-45",
+      "location" : "modpack1163.1.json",
+      "priority" : 0
+    }
+  ]
+}
