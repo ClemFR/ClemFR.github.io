@@ -52,3 +52,11 @@ li {
     margin: 0 0 0 250px;
     font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
 }
+
+.coeur{
+    color: #FD6C9E;
+}
+
+.titreD{
+    size: 150%;
+}
