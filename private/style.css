@@ -4,8 +4,8 @@ body {
     margin: 0;
     padding: 20px;
     font-size: 12pt;
-    background-image: url("launcher_bg.png");
-    background-repeat: repeat;
+    background-image: url("launcher_bg.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
