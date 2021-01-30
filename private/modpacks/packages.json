@@ -6,28 +6,28 @@
       "name" : "OptifinePack",
       "version" : "2020-09-19-11-10-34",
       "location" : "optifinepack1163.1.json",
-      "priority" : 1
+      "priority" : 10
     },
     {
       "title" : "[1.16.3] Sodium Pack++",
       "name" : "Priv_Modpack",
       "version" : "2021-01-04-16-14-40",
       "location" : "priv_modpack1163_3.json",
-      "priority" : 0
+      "priority" : 10
     },
     {
       "title" : "[1.16.5] Optifine Pack",
       "name" : "OptifinePack1.16.4",
       "version" : "2021-01-30-17-21-13",
       "location" : "optifinepack1165_1.json",
-      "priority" : 0
+      "priority" : 10
     },
     {
       "title" : "[1.16.5] Sodium Pack++",
       "name" : "Priv_Modpack1.16.4",
       "version" : "2021-01-30-17-21-34",
       "location" : "priv_modpack1165_1.json",
-      "priority" : 0
+      "priority" : 10
     }
   ]
 }
