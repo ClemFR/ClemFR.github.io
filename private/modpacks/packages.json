@@ -4,15 +4,22 @@
     {
       "title" : "[1.16.5] Optifine Pack",
       "name" : "OptifinePack1.16.4",
-      "version" : "1",
+      "version" : "2021-04-18-15-32-05",
       "location" : "optifinepack1.16.4.json",
       "priority" : 0
     },
     {
       "title" : "[1.16.5] Sodium Pack++",
       "name" : "Priv_Modpack1.16.4",
-      "version" : "1",
+      "version" : "2021-04-18-15-32-13",
       "location" : "priv_modpack1.16.4.json",
+      "priority" : 0
+    },
+    {
+      "title" : null,
+      "name" : "1.16 test",
+      "version" : "2021-04-18-15-31-13",
+      "location" : "1.16-test.json",
       "priority" : 0
     }
   ]
