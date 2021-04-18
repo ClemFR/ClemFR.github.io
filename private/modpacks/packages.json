@@ -1,5 +1,5 @@
 {
-  "minimumVersion" : 0,
+  "minimumVersion" : 1,
   "packages" : [
     {
       "title" : "[1.16.5] Optifine Pack",
@@ -16,10 +16,10 @@
       "priority" : 0
     },
     {
-      "title" : null,
-      "name" : "1.16 test",
-      "version" : "2021-04-18-15-31-13",
-      "location" : "1.16-test.json",
+      "title" : "Modpack 1",
+      "name" : "Modpack_1",
+      "version" : "2021-04-18-20-30-02",
+      "location" : "modpack_1.json",
       "priority" : 0
     }
   ]
